@@ -120,7 +120,7 @@ noted in the app's store listing.
 
 Questions about this policy or your privacy:
 
-tuiushevaskar@gmail.com
+app2gosupport@gmail.com
 
 APP2GO
 Italy
