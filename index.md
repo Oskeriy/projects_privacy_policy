@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Magnifier
 
-**Last updated:** 3 October 2026
+**Last updated:** 5 October 2026
 
 This policy explains what Magnifier ("the app") does with your information.
 Magnifier is developed by APP2GO ("we", "us").
@@ -110,6 +110,7 @@ The events are deliberately few, and this is all of them:
 
 - finishing the short introduction the first time you open the app
 - opening the magnifier
+- opening the app again on the day after you first opened it
 - the first button you press after the magnifier opens
 - which feature you used — brightness, filters, taking a photo, text
   scanning, or the gallery
