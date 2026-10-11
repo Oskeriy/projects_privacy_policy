@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Magnifier
 
-**Last updated:** 6 October 2026
+**Last updated:** 11 October 2026
 
 This policy explains what Magnifier ("the app") does with your information.
 Magnifier is developed by APP2GO ("we", "us").
@@ -40,7 +40,7 @@ The following never leaves your phone and is never sent to us or anyone else:
 
 ## 2. Data collected by third parties
 
-Magnifier uses four Google services, and one advertising network that Google
+Magnifier uses five Google services, and one advertising network that Google
 passes ad requests on to. Each collects data directly, under its own privacy
 policy.
 
@@ -145,6 +145,21 @@ problem can be fixed. A report contains:
 
 Reports contain no photos, no recognized text, and nothing you have typed or
 read through the app.
+
+Firebase privacy information: https://firebase.google.com/support/privacy
+
+### App settings — Firebase Remote Config
+
+When the app starts, it asks Firebase Remote Config for settings we can
+change without releasing an update. At present there is one: whether ads are
+shown at all. The request carries a randomly generated installation
+identifier and basic information about the app and device, such as the app
+version and language — nothing you have photographed, read or typed.
+
+This request is made whether or not you agree to analytics, because it
+collects nothing about how you use the app: it only decides whether the app
+shows ads. When ads are switched off, the app makes no requests to Google
+AdMob or Liftoff at all.
 
 Firebase privacy information: https://firebase.google.com/support/privacy
 
