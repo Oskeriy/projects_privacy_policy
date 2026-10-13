@@ -5,14 +5,14 @@ title: Privacy Policy
 
 # Privacy Policy for Magnifier
 
-**Last updated:** 11 October 2026
+**Last updated:** 13 October 2026
 
 This policy explains what Magnifier ("the app") does with your information.
 Magnifier is developed by APP2GO ("we", "us").
 
 The short version: **the app has no accounts and no sign-in, and we never see
 your photos or anything the camera reads.** Those stay on your device. Google
-collects limited technical data to show ads, process subscriptions and report
+collects limited technical data to show ads, process purchases and report
 crashes, and — only where you have agreed to it — to tell us which parts of
 the app are being used. Some ads are supplied by another advertising network
 through Google, which receives the same technical data. All of that is
@@ -37,6 +37,10 @@ The following never leaves your phone and is never sent to us or anyone else:
   many text scans you have used in the past 24 hours, so it can apply the
   free-tier limit. It contains no identifying information and is deleted
   when you uninstall the app.
+- **A 3-day Pro pass.** If you choose to watch an ad for 3 days of Pro, the
+  app records on your device when the pass started and when it ends. Nothing
+  else is stored, and it is deleted when the pass ends or you uninstall the
+  app.
 
 ## 2. Data collected by third parties
 
@@ -74,8 +78,10 @@ your advertising ID and opt out of ad personalization.
 Google's advertising privacy information:
 https://policies.google.com/technologies/ads
 
-**Subscribers do not see ads,** and no ad requests are made once a
-subscription is active.
+**People with Pro do not see ads** — whether they bought it or are using a
+3-day pass — and no ad requests are made while Pro is active. If you choose
+to watch an ad for a 3-day pass, that ad is served by AdMob like any other,
+and only after you have confirmed you want to watch it.
 
 ### Ads from other networks — Liftoff Monetize
 
@@ -93,8 +99,8 @@ https://liftoff.io/privacy-policy/
 
 **Your consent choice covers this network too.** If you decline in the form
 described above, or withdraw later through **Settings → Privacy options**,
-Liftoff is limited in exactly the same way AdMob is. Subscribers, who see no
-ads at all, are never subject to any of it.
+Liftoff is limited in exactly the same way AdMob is. People with Pro, who see
+no ads at all, are never subject to any of it.
 
 Nothing additional is collected for this: no photos, no recognized text, and
 nothing the camera has read ever reaches an advertising network, any more
@@ -114,12 +120,15 @@ The events are deliberately few, and this is all of them:
 - the first button you press after the magnifier opens
 - which feature you used — brightness, filters, taking a photo, text
   scanning, or the gallery
-- seeing the subscription offer, and whether it included a free trial
-- pressing the button to subscribe or start a free trial, and what happened
-  next — whether it went through, was cancelled, failed, or is still pending
-- starting a subscription, and whether it began with a free trial
-- closing the subscription offer without buying, and whether you had got as
-  far as Google's payment screen
+- seeing the Pro offer
+- pressing the button to buy Pro, and what happened next — whether it went
+  through, was cancelled, failed, or is still pending
+- buying Pro, with the price paid and its currency
+- closing the Pro offer without buying, and whether you had got as far as
+  Google's payment screen
+- choosing to watch an ad for 3 days of Pro, and how that ended — whether
+  the pass was granted, the ad was closed early, you changed your mind, or
+  no ad was available
 
 Alongside those, Google collects:
 
@@ -163,14 +172,16 @@ AdMob or Liftoff at all.
 
 Firebase privacy information: https://firebase.google.com/support/privacy
 
-### Subscriptions — Google Play Billing
+### Purchases — Google Play Billing
 
-If you subscribe, the purchase is handled entirely by Google Play. We receive
-only confirmation that a valid subscription exists. **We never see your name,
-payment card, or billing address.**
+Magnifier Pro is a one-time purchase. If you buy it, the purchase is handled
+entirely by Google Play. We receive only confirmation that you own it, and
+the order number Google gives the purchase. **We never see your name, payment
+card, or billing address.**
 
-Manage or cancel a subscription at any time through the Google Play Store app
-under **Subscriptions**.
+Earlier versions of the app sold Pro as a weekly subscription. If you still
+have one, you can manage or cancel it at any time through the Google Play
+Store app under **Subscriptions**.
 
 ## 3. Permissions the app requests
 
