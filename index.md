@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Magnifier
 
-**Last updated:** 13 October 2026
+**Last updated:** 14 October 2026
 
 This policy explains what Magnifier ("the app") does with your information.
 Magnifier is developed by APP2GO ("we", "us").
@@ -41,6 +41,13 @@ The following never leaves your phone and is never sent to us or anyone else:
   app records on your device when the pass started and when it ends. Nothing
   else is stored, and it is deleted when the pass ends or you uninstall the
   app.
+- **A few app settings.** How many times the app has been opened, whether you
+  have finished the introduction, the day you first opened it (used only for
+  the "opened again the next day" event described below), whether Google Play
+  last confirmed that you have Pro (so the app doesn't keep paying users
+  waiting for an ad when it opens), and when a full-screen ad was last shown
+  (so ads stay at least five minutes apart). None of it identifies you, and
+  it is deleted when you uninstall the app.
 
 ## 2. Data collected by third parties
 
@@ -64,7 +71,10 @@ collection described below applies from first use.
 
 ### Advertising — Google AdMob
 
-Free users are shown ads. To serve and measure them, Google may collect:
+Free users are shown ads: a banner at the bottom of the screen, and on some
+occasions a full-screen ad when you open the app or come back to it. A video
+ad is shown only if you choose to watch one in exchange for 3 days of Pro. To
+serve and measure them, Google may collect:
 
 - your device's advertising identifier
 - device information (model, operating system version, language, screen size)
@@ -79,7 +89,7 @@ Google's advertising privacy information:
 https://policies.google.com/technologies/ads
 
 **People with Pro do not see ads** — whether they bought it or are using a
-3-day pass — and no ad requests are made while Pro is active. If you choose
+3-day pass — and the app does not request ads for anyone it knows has Pro. If you choose
 to watch an ad for a 3-day pass, that ad is served by AdMob like any other,
 and only after you have confirmed you want to watch it.
 
